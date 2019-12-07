@@ -1,0 +1,68 @@
+.dot {
+    height: 17em;
+    width: 17em;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    color: #ECC427;
+}
+
+body{
+    background: #051923;
+    color: azure;
+}
+
+@media only screen and (min-device-width:480px) {
+    .bubleText{
+        margin-top: 50px;
+        font-size: 50px;
+    }
+}
+@media only screen and (min-device-width:240px) {
+    .bubleText{
+        margin-top: 7px;
+        font-size: 2px;
+    }
+}
+@media only screen and (min-device-width:1800px) {
+    .bubleText{
+        margin-top: 50px;
+        font-size: 30px;
+    }
+}
+@media only screen and (min-width:720px) {
+    .bubleText {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+}
+
+#awnser{
+    margin-top: 40px;
+}
+
+#allAwnser{
+    text-align: center;
+    font-size: 20px;
+}
+
+small{
+    text-align: center;
+    color: #253943;;
+    position: absolute; bottom: 0; left: 0; right: 0
+}

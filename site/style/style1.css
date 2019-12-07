@@ -1,0 +1,43 @@
+.chat{
+  text-align: center;
+  background-color: #051923;
+  height: 100vh;
+  padding: 2em;
+}
+
+.messages {
+  background-color: #D5D9D3;
+  border-radius: 10px;
+  text-align: left;
+  height: 80vh;
+  overflow: auto;
+  padding: 2em;
+}
+
+#user {
+  margin-top: 2em;
+  border-radius: 10px;
+  height: 2em;
+  width: 10em;
+  margin-right: 3em;
+  text-align: center;
+}
+
+#content {
+  margin-top: 2em;
+  border-radius: 10px;
+  height: 2em;
+  width: 20em;
+  margin-right: 3em;
+}
+
+#submitMessage {
+  margin-top: 2em;
+  border-radius: 2px;
+  height: 2em;
+  width: 20em;
+}
+
+#submitMessage:hover {
+  background-color: #CCC;
+}

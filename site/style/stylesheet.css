@@ -1,0 +1,137 @@
+html,body {
+    height: 100%;
+    overflow: hidden;
+}
+@media screen and (min-width : 800px)
+{
+    .textePerdu
+    {
+        font-size: 2rem;
+    }
+    .texteBetises
+    {
+        font-size: 0.8rem;
+    }
+    .erreur{
+        font-size: 11rem;
+    }
+}
+@media screen and (min-width : 1200px)
+{
+    .textePerdu
+    {
+        font-size: 2.5rem;
+    }
+    .texteBetises
+    {
+        font-size: 1.0rem;
+    }
+    .erreur{
+        font-size: 12rem;
+    }
+}
+@media screen and (min-width : 1300px)
+{
+    .textePerdu
+    {
+        font-size: 3rem;
+    }
+    .texteBetises
+    {
+        font-size: 1.2rem;
+    }
+    .erreur{
+        font-size: 13rem;
+    }
+}
+@media screen and (min-width : 1500px)
+{
+    .textePerdu
+    {
+        font-size: 3.5rem;
+    }
+    .texteBetises
+    {
+        font-size: 1.5rem;
+    }
+    .erreur{
+        font-size: 14rem;
+    }
+}
+.blockTexte{
+    text-align: center;
+    color: #ECC427;
+}
+.blockPage{
+    background-color: #051923;
+    background-image: url("../images/bat.png");
+    background-size: 5rem;
+    background-repeat: space;
+}
+.deadpool{
+    background-image: url("../images/deadpool.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 170px;
+    position: fixed;
+    right: 0;
+    top: calc(100% - 195px);
+
+}
+.container {
+    width: 100%;
+}
+.bottomRow{
+    height: 22%;
+}
+.eye {
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background: #CCC;
+    left: 2%;
+    top: 25%;
+}
+.eye-gauche{
+    top: 32% !important;
+    margin-right: 12px !important;
+}
+.eye:after {
+    position: absolute;
+    bottom: 17px;
+    right: 10px;
+    width: 10px;
+    height: 10px;
+    background: #000;
+    border-radius: 50%;
+    content: " ";
+}
+#panneau{
+    position: relative;
+    top: 0px;
+}
+.disco{
+    width: 100%;
+}
+#code1{
+
+}
+.erreur{
+    font-family: Avenger;
+}
+@font-face {
+    font-family: "Avenger";
+    src: url("../style/avenger.ttf");
+}
+#inputCode {
+    width: 80%;
+    margin-top: 40%;
+    background-color: transparent;
+    border: none;
+    color: #ECC427;
+}
+#jonathanGif{
+    visibility: hidden;
+}
