@@ -1,6 +1,7 @@
 <?php include "commun/header.php"; ?>
 <h1>Les aides sociales d'urgences</h1>
-
+    <a href="../Chat/index.php"><button type="button" style="float: right;" class="btn btn-primary">Ouvrir un chat pour discutter avec les autres <i class="fas fa-robot"></i></button></a>
+    <script src="https://kit.fontawesome.com/4f95c2083f.js" crossorigin="anonymous"></script>
 <ul class="tilesWrap">
     <li>
         <h3>Les aides alimentaires d’urgence : </h3>
