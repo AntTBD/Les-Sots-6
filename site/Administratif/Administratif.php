@@ -231,7 +231,6 @@ $crous = [
 </script>
     <!-- Extra large modal -->
     <button type="button" class="btn btn-primary" id="chatBot" data-toggle="modal" data-target=".bd-example-modal-xl">Ouvrir un chat <i class="fas fa-robot"></i></button>
-    <a href="../Chat/index.php"><button type="button" class="btn btn-primary">Ouvrir un chat pour discutter avec les autres <i class="fas fa-robot"></i></button></a>
 
     <div class="modal fade bd-example-modal-xl" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-xl" role="document">
