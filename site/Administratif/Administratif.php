@@ -237,10 +237,10 @@ $crous = [
         <div class="modal-dialog modal-xl" role="document">
             <div class="modal-content">
                 <iframe
-                        allow="microphone;"
                         width="100%"
                         height="700"
-                        src="https://bot.dialogflow.com/4fb05ac6-c3df-4d78-821c-2e671546e4be">
+                        allow="microphone;"
+                        src="https://console.dialogflow.com/api-client/demo/embedded/4fb05ac6-c3df-4d78-821c-2e671546e4be">
                 </iframe>
             </div>
         </div>
