@@ -21,7 +21,7 @@ Pour plus de détails: [nuit_de_linfo.pdf](nuit_de_linfo.pdf)
 | ![404 1](img/404.png) | ![404 2](img/404%20troll.png) | ![404 3](img/404%20troll%20end.png) |
 
 | | | Aides | | |
-| --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: |
 | Aide Administrative | Aide Financière | Aide Morale | Aide Logement | Aide Sociale |
 | ![Aide Administratif](img/Aide%20Administratif.png) | ![Aide Financier](img/Aide%20Financier.png) | ![Aide Moral](img/Aide%20Moral.png) | ![Aide Logement](img/Aide%20Logement.png) | ![Aide Sociale](img/Aide%20Sociale.png) |
 
